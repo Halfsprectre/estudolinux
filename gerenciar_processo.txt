@@ -1,0 +1,3 @@
+ps 
+comando usado para vereficar os processo que estão executados
+neste momento.

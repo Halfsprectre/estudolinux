@@ -12,4 +12,11 @@
     Ex.: exibir os arquivos e pastar, inclusive os ocultos
         ls -la
 
+
+        mkdir
+        o comando cria um diretorio,por isso seu nome e mkdir (make derectory)
+        ex:.. mkdir dados
         
+         cp 
+        o comando co (copy) é responsável por realizar uma cópia
+        de um arquivo ou diretório
